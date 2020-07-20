@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">toVisit_gagandeep_C0770112_android</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_near_by_places">Map</string>
+    <string name="nearby_hospitals">Hospital</string>
+    <string name="nearby_restaurants">Restaurant</string>
+    <string name="nearby_museum">Museum</string>
+    <string name="nearby_cafe">Cafe</string>
+</resources>
